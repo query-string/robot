@@ -12,7 +12,7 @@ class Robot
   end
 
   def say_hi!
-    p "Yalo, my name is #{settings.name}!"
+    p "Yalo, my name is #{name}!"
   end
 
   def say_knock!
